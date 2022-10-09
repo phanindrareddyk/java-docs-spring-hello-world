@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'phanis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA9D004973634835885094E41E916D44 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1C1787319EE4B04AEE3D7BA035FF4D4 }}
           package: '*.jar'
